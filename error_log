@@ -1,0 +1,4 @@
+[17-May-2023 09:38:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function symlink() in /home/refurbished/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/refurbished/public_html/index.php on line 5

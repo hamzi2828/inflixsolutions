@@ -1,0 +1,9 @@
+{
+    "name": "Wallet",
+    "location": "wallet",
+    "namespace": "Plugin\\Wallet\\",
+    "version": "1.0",
+    "author": "Themelooks",
+    "url": "http://www.themelooks.com/",
+    "description": "Wallet plugin of Tl-commerce"
+}
